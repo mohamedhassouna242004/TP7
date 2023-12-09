@@ -1,0 +1,34 @@
+#menu_horizontal{
+    list-style: none;
+    margin:0;
+    padding:0;
+
+}
+li{
+    border:1px solid #000999;
+    background-color: #e0e0e0;
+    margin:1px;
+    text-align: center;
+    width: 150px;
+    display: inline-block;
+
+}
+a{
+    display:block;
+    color:#666666;
+    font-size:16px;
+    line-height:16px;
+    padding-top:8px;
+    padding-bottom: 8px;
+    text-decoration: 8px;
+    text-decoration: none;
+
+
+}
+a:hover{
+    color:#e0e0e0;
+    background-color: #666666;
+}
+a:active{
+    color:red;
+}
